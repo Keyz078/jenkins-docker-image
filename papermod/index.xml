@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 04 Oct 2024 07:28:07 +0000</lastBuildDate>
     <atom:link href="https://hugo.keyz.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hugo.keyz.my.id/about/</link>
+      <pubDate>Fri, 04 Oct 2024 07:28:07 +0000</pubDate>
+      <guid>https://hugo.keyz.my.id/about/</guid>
+      <description>Hello</description>
+    </item>
   </channel>
 </rss>
